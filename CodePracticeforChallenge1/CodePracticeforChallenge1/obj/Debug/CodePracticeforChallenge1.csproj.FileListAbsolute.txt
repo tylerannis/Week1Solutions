@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\bin\Debug\CodePracticeforChallenge1.exe.config
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\bin\Debug\CodePracticeforChallenge1.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\bin\Debug\CodePracticeforChallenge1.pdb
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\obj\Debug\CodePracticeforChallenge1.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\obj\Debug\CodePracticeforChallenge1.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\CodePracticeforChallenge1\CodePracticeforChallenge1\obj\Debug\CodePracticeforChallenge1.pdb
