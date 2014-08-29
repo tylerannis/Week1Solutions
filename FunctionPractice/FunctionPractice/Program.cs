@@ -24,6 +24,7 @@ namespace FunctionPractice
         static void Greet(string name)
         {
             Console.WriteLine("Hello, " + name);
+
            //Calling the DoubleIt function, this will make nothing appear on the console when we run it until we set a variable to it 'int sevenDoubled'
            int sevenDoubled = DoubleIt(7);
             //now we write something to the console about DoubleIt
@@ -45,6 +46,7 @@ namespace FunctionPractice
         {
             return num * 2;
         }
+
         static int Multiply(int num1, int num2)
         {
             return num1 * num2;
